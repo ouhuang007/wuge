@@ -1,19 +1,7 @@
 {
     "spider": "./lib/XBPQ.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-    "sites": [
-        {
-            "key": "路飞",
-            "name": "路飞直转点",
-            "type": 3,
-            "style": {
-                "type": "oval"
-            },
-            "api": "./路飞直播转点播.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./18+点播.txt"
-        },
+    "sites": [{"key":"路飞","name":"路飞直转点","type":3,"style":{"type":"rect","ratio":1.485},"style":{"type":"oval"},"api":"./路飞直播转点播.js","searchable":1,"changeable":1,"ext":"./18+点播.txt"},
         {
             "key": "🟢泥巴",
             "name": "🟢 泥巴",
